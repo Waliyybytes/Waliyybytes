@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Waliyybytes
-- 👀 I’m interested in all about Backend, DevOps and Data Engineering
+- 👀 I’m interested in all about Full Stack, DevOps and Data Engineering
 - 🌱 I’m currently learning ...Python, Javascript
 - 💞️ I’m looking to collaborate on all above
 - 📫 How to reach me ...waliu.ogunlaru@yahoo.com
