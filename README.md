@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Waliyybytes
-- 👀 I’m interested in all about Full Stack, DevOps and Data Engineering
-- 🌱 I’m currently learning ...Python, Javascript
+- 👀 A Software Engineer...but yet
+- 🌱 I’m currently learning ...C Python, Javascript, SQL
 - 💞️ I’m looking to collaborate on all above
 - 📫 How to reach me ...waliu.ogunlaru@yahoo.com
 
