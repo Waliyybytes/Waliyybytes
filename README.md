@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Waliyybytes
-- 👀 A Software Engineer...but yet
+- 👀 Aspring  Software Engineer...
 - 🌱 I’m currently learning ...C Python, Javascript, SQL
 - 💞️ I’m looking to collaborate on all above
 - 📫 How to reach me ...waliu.ogunlaru@yahoo.com
